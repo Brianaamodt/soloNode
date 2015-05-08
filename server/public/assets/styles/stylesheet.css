@@ -1,10 +1,12 @@
-body{
+body {
     background-image: url(confectionary.png);
+    background-color: rgba(2, 132, 130, 0.25);
 }
+/*.background{*/
+    /*background-color: rgba(2,132,130, 0.25);
+   /*}
+*/
 
-.background{
-    background-color: rgba(2,132,130, 0.25);
-}
 
 .well{
     background-color: rgba(225,225,2, 0.25);
