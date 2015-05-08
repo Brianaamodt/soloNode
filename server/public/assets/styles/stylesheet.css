@@ -10,8 +10,9 @@ body{
     background-color: rgba(225,225,2, 0.25);
 }
 
-.notWell{
-    background-color: #7419FF
+.jumbotron{
+    color: #ffffff;
+    background-color: #00b3ee;
 }
 
 #personal{
@@ -50,8 +51,8 @@ h1{
 
 .btn{
     margin-right: 25px;
-    border: 1px solid #fff;
-    background-color: #add8e6;
+    color: #ffffff;
+    background-color: ##00b3ee;
     text-align: center;
 }
 
