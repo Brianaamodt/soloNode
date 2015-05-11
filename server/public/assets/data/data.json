@@ -1,0 +1,15 @@
+{
+  "samples": [
+    {"photo" : "<img class='jewel' src='https://scontent-ord.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/248298_1767070498102_7395183_n.jpg?oh=9246732d539c0ca72864858e198a139f&oe=55DFA282'>"},
+    {"photo" : "<img class='jewel' src='https://scontent-ord.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/206547_1675579930895_7815665_n.jpg?oh=7f7cf6eda39cfa1ed937c2bf14f86577&oe=55C23C5B'>"},
+    {"photo" : "<img class='jewel' src='https://scontent-ord.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/11205099_10204304163905779_3943245054857892274_n.jpg?oh=b792bf4c9f0694184a0324bd4ae24d59&oe=55CB0DFB'>"},
+    {"photo" : "<img class='jewel' src='https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/11221287_10204304163185761_673483864560329886_n.jpg?oh=2180e54ec7e7019977616e3ce5c624d0&oe=55C3E484&__gda__=1443586493_dd40f7211826fafe4e5c36df42626e40'>"},
+    {"photo" : "<img class='jewel' src='https://scontent-ord.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/11193361_10204304164185786_382068903915559715_n.jpg?oh=629547dc9cc8fea341182bf472b164be&oe=55CFE23C'>"},
+    {"photo" : "<img class='jewel' src='https://scontent-ord.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/11206009_10204304164465793_4285637148970309442_n.jpg?oh=bd15d24c026e320f762db7fd60452c99&oe=5609B5D9'>"},
+    {"photo" : "<img class='jewel' src='https://scontent-ord.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10422028_10204304163505769_4749392633592335419_n.jpg?oh=ec632e3e11c55423bce9f7128c1d6be7&oe=55D31E75'>"}
+  ],
+  "gameList": [
+    {"name" : "Hoard or Die" , "desc" : "Hoard or Die is a twenty minute, 3-5 player game that pits players against each other in a free for all race to become the richest lord in the land. Raid the king's hoard for riches, and strike down any noble house that tries to do the same. Command your army of five unique dice, specialized in attacking, pilfering, and defending. Then summon the red drake to roast the competition... Oh did i not mention the dragon? Yes, fire breathing, money grubbing dragons will offer up their services to any lord for a nominal fee. So summon your greatest warriors, defend your lords and become the next king of the realm. The game play is fast paced, and the tensions are high, because in this kingdom, it is Hoard or Die.", "image" : "<img id='hod' src='img/hoardordie.jpg'/>"},
+    {"name" : "The Islands" , "desc" : "The Islands is a quick 45 minute game, for 2-5 players. each player is the ruler of a small island, that has yet to begin development. Though non-violent in nature, each ruler has a fierce desire for their home to become more developed than the rest. each step in development will grant the ruler greater prestige than the last. but because the islands are incredibly limited in resources decisions must be made carefully, because when they have run out, there will be no means of replenishment. so trade, demand, harvest, and clearcut your way to victory because at the end of the game there will be tea, and wouldn’t you like to humble brag over tea?", "image" : "<img id='hod' src='http://www.weirdlyodd.com/wp-content/uploads/2010/12/Yaeyama-Islands-1.jpg'/>"}
+  ]
+}
